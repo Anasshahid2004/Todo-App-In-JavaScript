@@ -74,6 +74,12 @@ main {
 
 .foot{
     padding: 10px 10px 10px 10px;
-    margin: 10px 10px -388px -586px;
-    
+    margin: 10px 10px -388px -645px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #f1c40f; 
+}
+
+.foot:hover{
+    color: #000000;
 }
